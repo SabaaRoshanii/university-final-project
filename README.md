@@ -6,7 +6,7 @@ Object detection, depth mapping, and nearest person identification using YOLOv8 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![YOLOv8](https://img.shields.io/badge/YOLO-v8-green.svg)
 ![Depth Anything](https://img.shields.io/badge/Depth-Anything-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-red.svg)
+
 
 ## 📌 Project Description
 
