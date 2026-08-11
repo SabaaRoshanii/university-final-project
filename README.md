@@ -67,17 +67,11 @@ YOLO_Depth_Project/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/saba-roshani/YOLO_Depth_Project.git
-cd YOLO_Depth_Project
+git clone https://github.com/SabaaRoshanii/university-final-project.git
+cd university-final-project
 ```
 
-### 2️⃣ Install Requirements
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Download Model Weights
+### 2️⃣ Download Model Weights
 
 The code automatically downloads the required models:
 - **YOLOv8n** (~6 MB)
@@ -85,7 +79,7 @@ The code automatically downloads the required models:
 
 > **Note:** The first run may take a few minutes to download the models.
 
-### 4️⃣ Run the Application
+### 3️⃣ Run the Application
 
 ```bash
 python main.py
